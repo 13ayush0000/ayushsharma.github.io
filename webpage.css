@@ -1,0 +1,222 @@
+<style>
+    {
+        margin: 0;
+        padding: 0;
+    }
+
+    
+    .mainrow{
+               font-size: 20px;
+               color: springgreen;
+
+
+
+    }
+    #search{
+
+        color: red;
+    }
+
+#ayush{
+    color:blue;
+}
+ 
+#prg{
+
+color: greenyellow;
+}
+
+#hoby{
+
+text-align: center;
+font-size: 30px;
+text-shadow: 30px 30px 5px grey;
+
+
+}
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: sticky;
+        top: 0;
+        cursor: pointer;
+    }
+ 
+    .background {
+        background:black;
+        background-blend-mode: darken;
+        background-size: cover;
+    }
+ 
+    .nav-list {
+        width: 70%;
+        display: flex;
+        align-items: center;
+    }
+ 
+    .logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+ 
+    .logo img {
+        width: 180px;
+        border-radius: 50px;
+    }
+
+    .logopic{
+       
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+ 
+    .nav-list li {
+        list-style: none;
+        padding: 26px 30px;
+    }
+ 
+    .nav-list li a {
+        text-decoration: none;
+        color: rgb(15, 250, 46);
+    }
+ 
+    .nav-list li a:hover {
+        color: grey;
+    }
+ 
+    .rightnav {
+        width: 30%;
+        text-align: right;
+        color: red;
+    }
+ 
+    #search {
+        padding: 5px;
+        font-size: 20px;
+        border: 2px solid red;
+        border-radius: 9px;
+    }
+ 
+    .firstsection {
+        background-color:silver;
+        height: 400px;
+    }
+ 
+    .secondsection {
+        background-color:grey;
+        height: 400px;
+    }
+ 
+    .box-main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color:red;
+        max-width: 80%;
+        margin: auto;
+        height: 80%;
+    }
+ 
+    .firsthalf {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+ 
+    .secondhalf {
+        width: 30%;
+    }
+ 
+
+    .image{
+height: 50px;
+width: 50px;
+
+    }
+    .secondhalf img {
+        width: 70%;
+        border: 4px solid black;
+        border-radius: 150px;
+        display: block;
+        margin: auto;
+    }
+ 
+    .text-big {
+        font-family: 'Piazzolla', serif;
+        font-weight: bold;
+        font-size: 35px;
+    }
+ 
+    .text-small {
+        font-size: 20px;
+    }
+ 
+    .btn {
+        padding: 8px 20px;
+        margin: 7px 0;
+        border: 2px solid green;
+        border-radius: 8px;
+        background: none;
+        color:rgb(245, 8, 8);
+        cursor: pointer;
+    }
+ 
+    .btn-sm {
+        padding: 6px 10px;
+        vertical-align: middle;
+    }
+ 
+    .section {
+        height: 400px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        max-width: 90%;
+        margin: auto;
+    }
+ 
+    .section-Left {
+        flex-direction: row-reverse;
+    }
+ 
+    .java{
+        color: seagreen;
+        padding: 0px 65px;
+    }
+
+
+    .javatext{
+        border: auto
+    ;
+               color: red;
+               text-overflow: auto;
+            
+
+
+    }
+ 
+    .thumbnail img {
+        width: 250px;
+        border: 2px solid red;
+        border-radius: 26px;
+        margin-top: 19px;
+    }
+ 
+    .center {
+        text-align: center;
+    }
+ 
+    .text-footer {
+        text-align: center;
+        padding: 30px 0;
+        font-family: 'Ubuntu', sans-serif;
+        display: flex;
+        justify-content: center;
+        color: rgb(248, 6, 6);
+    }
+</style>

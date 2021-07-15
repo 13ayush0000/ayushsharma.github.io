@@ -1,0 +1,19 @@
+p{
+    color: teal;
+}
+#mail{
+color:tomato;
+text-align: center;
+font-size: 25px;
+
+}
+#mail1{
+    color:rgb(0, 26, 255);
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 15px 20px 3px grey;
+    
+    }
+    body{
+        background-color: lightgray;
+    }

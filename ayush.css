@@ -1,0 +1,23 @@
+BODY{background-image: linear-gradient(50deg,red,green,blue,skyblue,grey,pink,orange,white,green);}
+
+h1{text-align: center;
+    text: shadow 10px grey; 
+}
+
+ #adm{text-shadow: 10px 20px 5px grey;
+     
+    
+      
+ }
+
+#marqee{
+ text-decoration-color: 10px rgb(231, 11, 121);
+    font-size: 50px;
+    -ms-text-underline-position: under;
+}
+#subjects{
+text-align: center;
+font-size: 30px;
+text-shadow: 30px 30px 3px grey;
+
+}
