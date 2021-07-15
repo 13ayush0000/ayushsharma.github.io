@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<title>wait</title>
+<body style="background-image: linear-gradient(45deg,rgb(63, 35, 35),rgb(55, 173, 182),rgb(86, 179, 67),rgb(170, 87, 87));"}>
+
+<h1 style="text-align: center;color: rgb(0, 0, 0);"><marquee scrollamount="6000">YOU WILL REACH WAIT FOR SOME SECONDS.</h1></marquee>
+<hr>
+<p style="font-size: 50px;color: rgb(255, 0, 0);text-align: center;"> PLAESE WAIT FOR CONNECTING <br><span id="countdowntimer">5</span> Seconds</p>
+<script type="text/javascript">
+    var timeleft = 5;
+    var downloadTimer = setInterval(function(){
+    timeleft--;
+    document.getElementById("countdowntimer").textContent = timeleft;
+    if(timeleft <= 0)
+        clearInterval(downloadTimer);
+    },1000);
+</script>
+<hr>
+<p style="text-align: center;color: red;font-size: 30px;">
+ 
+    <meta http-equiv="refresh"
+    content="5; url = D:\html\aboutas.html" /> 
+</script>
+</body>
+</html>

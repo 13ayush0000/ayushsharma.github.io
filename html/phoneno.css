@@ -1,0 +1,35 @@
+body{
+
+background-color: rgb(218, 22, 236);
+
+}
+#phone{
+
+color: rgb(255, 230, 0);
+background: rgb(255, 0, 0);
+text-align: center;
+font-size: 40px;
+text-shadow: 10px 10px 5px rgb(46, 41, 41);
+
+}
+a:link{
+    color: rgb(0, 4, 255);
+}
+#back{
+
+    text-align: center;
+    background: rgb(0, 255, 179);
+
+}
+#whimg{
+    max-width: 100px;
+    max-height: 100px;
+    padding: 2px;
+}
+#num{
+text-align: center;
+font-size: 40px;
+color:rgb(255, 0, 0);
+background: rgb(0, 0, 0);
+
+}

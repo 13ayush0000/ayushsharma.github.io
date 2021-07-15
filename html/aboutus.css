@@ -1,0 +1,49 @@
+#head{
+font-size: 60px;
+text-align: center;
+color: red;
+text-shadow: 20px 15px 5px grey;
+background-color: rgb(75, 162, 177);
+}
+table{
+border: 100% 50px black;
+}
+body{
+
+   background-image: linear-gradient(50deg,lightpink,lightgreen,lightblue,skyblue);
+
+}
+
+
+#some{
+    text-align: center;
+    color: gold;
+    background-color: rgb(221, 4, 4);
+    font-size: 30px;
+}
+#back{
+font-size: 30px;
+text-align: center;
+
+}
+#Q{
+    color: rgb(4, 0, 255);
+    font-style: italic;
+    font-size: 25px;
+    background-color: darkgoldenrod;
+    padding: 5px;
+}
+#Q1{
+    color: rgb(43, 255, 0);
+    font-style: italic;
+    font-size: 25px;
+    background-color: darkgray;
+    padding: 5px;
+}
+#Q2{
+    color: rgb(255, 115, 0);
+    font-style: italic;
+    font-size: 25px;
+    background-color: darkseagreen;
+    padding: 5px;
+}
